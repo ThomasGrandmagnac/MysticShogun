@@ -55,12 +55,12 @@ if(isset($_POST['btn-login']))
         </div>
 
         <div class="form-group">
-        <input type="text" class="form-control" name="txt_uname_email" placeholder="Identifiant" required />
+        <input type="text" class="form-control" name="txt_uname_email" placeholder="Identifiant" required/>
         <span id="check-e"></span>
         </div>
 
         <div class="form-group">
-        <input type="password" class="form-control" name="txt_password" placeholder="Mot de passe" />
+        <input type="password" class="form-control" name="txt_password" placeholder="Mot de passe"/>
         </div>
 
      	<hr/>
